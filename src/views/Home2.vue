@@ -43,8 +43,8 @@
                   <div class="info-list">
                      <div class="">
                         <!-- <img src="../assets/images/heroimage2.jpg" alt="Background Image" class="bg-image" /> -->
-                        <img src="../assets/images/heroimage1_.jpg" alt="Foreground Image"
-                           class="" style="width: 100%; border-radius: 20px;margin-top:60px;margin-bottom:60px;"/>
+                        <img src="../assets/images/heroimage1_.jpg" alt="my portfolio"
+                           class="" style="width: 100%; border-radius: 20px;margin-top:60px;padding-top:60px;margin-bottom:60px;padding-bottom:60px;"/>
                      </div>
 
                      <!-- <ul>
@@ -185,7 +185,7 @@
                   <div class="col-md-6">
                      <div class="about">
                         <div class="icon">
-                           <img src="../assets/images/account.png" alt="" />
+                           <img src="../assets/images/account.png" alt="myportfolio" />
                         </div>
                         <div>
                            <p>Name</p>
@@ -196,7 +196,7 @@
                   <div class="col-md-6">
                      <div class="about">
                         <div class="icon">
-                           <img src="../assets/images/locator.png" alt="" />
+                           <img src="../assets/images/locator.png" alt="myportfolio" />
                         </div>
                         <div>
                            <p>Location</p>
@@ -207,7 +207,7 @@
                   <div class="col-md-6">
                      <div class="about">
                         <div class="icon">
-                           <img src="../assets/images/address.png" alt="" />
+                           <img src="../assets/images/address.png" alt="myportfolio" />
                         </div>
                         <div>
                            <p>Email</p>
@@ -218,7 +218,7 @@
                   <div class="col-md-6">
                      <div class="about">
                         <div class="icon">
-                           <img src="../assets/images/verified-user.png" alt="" />
+                           <img src="../assets/images/verified-user.png" alt="myportfolio" />
                         </div>
                         <div>
                            <p>Status</p>
@@ -270,7 +270,7 @@
             <div class="col-md-4">
                <div class="prj-item">
                   <div class="zoomin">
-                     <img src="../assets/images/portfolio2.jpg" />
+                     <img src="../assets/images/portfolio2.jpg" alt="myportfolio"/>
                   </div>
                   <div class="d-flex justify-content-between align-items-center prj-content">
                      <h3>Learning Online Portal</h3>
@@ -285,7 +285,7 @@
             <div class="col-md-4">
                <div class="prj-item">
                   <div class="zoomin">
-                     <img src="../assets/images/portfolio3.jpg" />
+                     <img src="../assets/images/portfolio3.jpg" alt="myportfolio"/>
                   </div>
                   <div class="d-flex justify-content-between align-items-center prj-content">
                      <h3>Real Estate Portal</h3>
@@ -300,7 +300,7 @@
             <div class="col-md-4">
                <div class="prj-item">
                   <div class="zoomin">
-                     <img src="../assets/images/portfolio4.jpg" />
+                     <img src="../assets/images/portfolio4.jpg" alt="myportfolio"/>
                   </div>
                   <div class="d-flex justify-content-between align-items-center prj-content">
                      <h3>Air Ticketing</h3>
