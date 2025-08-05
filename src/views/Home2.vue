@@ -173,7 +173,7 @@
             <div class="col-md-7">
                <p>
                   Hello There! I'm Yu Wah, a passionate Frontend Developer with 8+
-                  years of experience specializing in Angular, Vue and wordpress
+                  years of experience specializing in Reactjs, Angular, Vue and CMS Framework (wordpress)
                   with a solid foundation in UI/UX design. I've worked on a
                   range of projects, including admin dashboards, e-commerce
                   platforms, different kinds of websites, and job seeker site. I
