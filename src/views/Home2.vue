@@ -772,18 +772,6 @@ import { ref } from "vue"
 import Typed from "typed.js"
 import Header from "../components/Header"
 import { DotLottieVue } from "@lottiefiles/dotlottie-vue"
-import { nextTick } from 'vue'
-//
-gsap.registerPlugin(ScrollTrigger)
-
-gsap.from(".my-element", {
-   scrollTrigger: ".my-element",
-   y: 100,
-   opacity: 0,
-   duration: 1
-})
-
-//
 export default {
    setup() {
       const activeTab = ref("overview")
@@ -806,9 +794,7 @@ export default {
       }
    },
    mounted() {
-      nextTick(() => {
-         AOS.refresh()
-      })
+     
       const options = {
          strings: [
             "",
