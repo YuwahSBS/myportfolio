@@ -46,6 +46,12 @@ const router = createRouter({
   }
 });
 
+router.afterEach((to) => {
+  if (to.meta && to.meta.title) {
+    document.title = to.meta.title
+  }
+})
+
 createApp(App).use(router).mount("#app");
 
 // AOS.init({
