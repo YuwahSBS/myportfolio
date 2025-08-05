@@ -773,10 +773,6 @@ import Typed from "typed.js"
 import Header from "../components/Header"
 import { DotLottieVue } from "@lottiefiles/dotlottie-vue"
 import { nextTick } from 'vue'
-import AOS from 'aos'
-import { gsap } from "gsap"
-import { ScrollTrigger } from "gsap/ScrollTrigger"
-
 //
 gsap.registerPlugin(ScrollTrigger)
 
