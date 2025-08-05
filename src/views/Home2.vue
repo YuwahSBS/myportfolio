@@ -41,10 +41,10 @@
                </div>
                <div class="col-lg-4 col-12">
                   <div class="info-list">
-                     <div class="image-container">
+                     <div class="">
                         <!-- <img src="../assets/images/heroimage2.jpg" alt="Background Image" class="bg-image" /> -->
-                        <img src="../assets/images/heroimage1.jpg" alt="Foreground Image"
-                           class="fg-image float-image" />
+                        <img src="../assets/images/heroimage1_.jpg" alt="Foreground Image"
+                           class="" style="width: 100%; border-radius: 20px;margin-top:60px;margin-bottom:60px;"/>
                      </div>
 
                      <!-- <ul>
