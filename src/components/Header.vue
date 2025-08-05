@@ -207,12 +207,26 @@ position:absolute;
   background-color: #000;
   margin: 4px 0;
 }
-@media only screen and (max-width: 767px){
-  .navbar-area{top:0;}
-}
+
 .navbar{
   background-color: #2a2c32 !important;
   border-radius: 99px !important;
   border:none !important;
+}
+
+@media only screen and (max-width: 767px){
+  .navbar-area{top:0;}
+    .navbar{
+      width: 100% !important;
+      background-color: unset !important;
+      padding: 0 !important;
+      border-radius: 10px !important;
+      display: flex;
+      justify-content: center;
+   }
+   .navbar-toggler{
+    background-color: #e6e8ec !important;
+    padding: 11px 14px !important;
+   }
 }
 </style>
