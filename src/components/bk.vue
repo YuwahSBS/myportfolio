@@ -21,11 +21,14 @@
                            </strong>
                         </div>
                         <p>
-                          I’m experienced web and ui/ux designer, who design memorable web experiences for brands OF ALL SIZES.
+                           I create beautiful, functional and user-centered
+                           digital experiences. With 8+ years of experience in web development, I bring idea to life
+                           through
+                           clean code and thougthful design.
                         </p>
                         <div class="bts">
                            <a target="_blank"
-                              href="https://drive.google.com/file/d/1dtu6EDKVMnPZLa9AGTUypC7nuK8EtJTN/view?usp=sharing"
+                              href="https://drive.google.com/drive/folders/1ZQRhtO94h1UWK-l1_bVPycd6mWTEcozP?usp=drive_link"
                               class="btn">
                               <span>Download CV</span>
                            </a>
@@ -40,8 +43,8 @@
                   <div class="info-list">
                      <div class="">
                         <!-- <img src="../assets/images/heroimage2.jpg" alt="Background Image" class="bg-image" /> -->
-                        <img src="../assets/images/heroimage1_.png" alt="my portfolio"
-                           class="" style="width: 100%; border-radius: 20px;margin-top:100px;margin-bottom:100px;"/>
+                        <img src="../assets/images/heroimage1_.jpg" alt="my portfolio"
+                           class="" style="width: 100%; border-radius: 20px;margin-top:60px;padding-top:60px;margin-bottom:60px;padding-bottom:60px;"/>
                      </div>
 
                      <!-- <ul>
@@ -169,7 +172,14 @@
          <div class="row d-flex align-items-center">
             <div class="col-md-7">
                <p>
-                 Innovative Web & Graphic Designer specializing in crafting impactful digital experiences through clean, modern design. Experienced in developing responsive websites, brand visuals, and multimedia content that align with business goals. Proficient in Adobe Creative Suite, UI/UX principles, and front-end development. Known for combining artistic creativity with technical skills to create designs that inspire and engage audiences.
+                  Hello There! I'm Yu Wah, a passionate Frontend Developer with 8+
+                  years of experience specializing in Reactjs, Angular, Vue and CMS Framework (wordpress)
+                  with a solid foundation in UI/UX design. I've worked on a
+                  range of projects, including admin dashboards, e-commerce
+                  platforms, different kinds of websites, and job seeker site. I
+                  specialize in building responsive, user-friendly websites
+                  using Reactjs, Angular, Vue, Wordpress and frontend frameworks like
+                  Tailwind CSS, Bootstrap.
                </p>
                <div class="aboutsection row">
                   <div class="col-md-6">
@@ -615,7 +625,7 @@
                                        <circle class="bg" cx="40" cy="40" r="32" />
                                        <circle class="meter-9" cx="40" cy="40" r="32" />
                                     </svg>
-                                    <h4>Photoshop/Illustrator</h4>
+                                    <h4>Photoshop</h4>
                                  </div>
                               </div>
                            </div>

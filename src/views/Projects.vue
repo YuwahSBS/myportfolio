@@ -2,12 +2,11 @@
   <Header></Header>
   <section class="skill" style="margin-top:150px;">
     <div class="container">
-      <div class="heading text-center">
-         <h3>Projects</h3>
-         <h4>
-            <span class="my">MY</span>
-            <span class="talent">Work</span>
-         </h4>
+     
+
+      <div class="heading text-center" style="margin-top:60px;">
+         <h3>Website Projects</h3>
+         <h4><span class="my">MY</span><span class="talent">Work</span></h4>
       </div>
       <hr/>
       <div class="prj">
@@ -17,9 +16,7 @@
                   <div class="zoomin">
                      <img src="../assets/images/portfolio1.jpg" />
                   </div>
-                  <div
-                     class="d-flex justify-content-between align-items-center prj-content"
-                  >
+                  <div class="d-flex justify-content-between align-items-center prj-content">
                      <h3>Job Search Portal</h3>
                      <div>
                         <a href="https://www.jobclick.com.mm" target="_blank">
@@ -256,6 +253,160 @@
                         </a>
                      </div>
                   </div>
+               </div>
+            </div>
+         </div>
+        
+         <div class="lui-bgtitle" style="top:0;">
+              <span> Portfolio </span>
+            </div>
+      </div>
+
+      <div class="heading text-center" style="margin-top:60px;">
+         <h3>Web/Graphic Design</h3>
+         <h4><span class="my">MY</span><span class="talent">Work</span></h4>
+      </div>
+      <hr/>
+      <div class="prj">
+         <div class="row">
+            <div class="col-md-4">
+               <div class="prj-item">
+                  <div class="zoomin">
+                     <img src="../assets/images/uiux1.png" />
+                  </div>
+                  <div class="d-flex justify-content-between align-items-center prj-content">
+                     <h3>UI Web Template</h3>
+                     <div>
+                        <a href="https://www.figma.com/proto/6vajOjmZ9mwAo9E08b3rFb/MGPE-UI?node-id=64-537&t=qjVAn0LuPf5INZds-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&hide-ui=1" target="_blank">
+                           <img
+                              src="../assets/images/goto.png"
+                              alt="Job Click"
+                           />
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-md-4">
+               <div class="prj-item">
+                  <div class="zoomin">
+                     <img src="../assets/images/uiux2.png" />
+                  </div>
+                  <div class="d-flex justify-content-between align-items-center prj-content">
+                     <h3>UI Web Template</h3>
+                     <div>
+                        <a href="https://www.figma.com/proto/0IQxURQukLGqNpHwo2cikG/LawFirm-Design-1?node-id=20-2&scaling=scale-down-width&content-scaling=fixed&t=t7sLiuefCzukM5qx-1" target="_blank">
+                           <img
+                              src="../assets/images/goto.png"
+                              alt="Job Click"
+                           />
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-md-4">
+               <div class="prj-item">
+                  <div class="zoomin">
+                     <img src="../assets/images/uiux3.png" />
+                  </div>
+                  <div class="d-flex justify-content-between align-items-center prj-content">
+                     <h3>UI Web Template</h3>
+                     <div>
+                        <a href="https://www.figma.com/proto/bEEroXUHLFy7yN18H58NMF/PPG-UI?node-id=3-119&t=UurqrA9UPXiXVBVJ-1" target="_blank">
+                           <img
+                              src="../assets/images/goto.png"
+                              alt="Job Click"
+                           />
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+            <div class="col-md-4">
+               <div class="prj-item">
+                  <div class="zoomin">
+                     <img src="../assets/images/uiux4.png" />
+                  </div>
+                  <div class="d-flex justify-content-between align-items-center prj-content">
+                     <h3>UI Web Template</h3>
+                     <div>
+                        <a href="https://www.figma.com/proto/dUY5CYvSQvs6P4TprcBuIZ/White-Cottage-Restaurant-Website?node-id=597-22429&starting-point-node-id=597%3A22429&t=sIof5vAOViZdDla6-1" target="_blank">
+                           <img
+                              src="../assets/images/goto.png"
+                              alt="Job Click"
+                           />
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+              <div class="col-md-4">
+               <div class="prj-item">
+                  <div class="zoomin">
+                     <img src="../assets/images/uiux5.png" />
+                  </div>
+                  <div class="d-flex justify-content-between align-items-center prj-content">
+                     <h3>UI Web Template</h3>
+                     <div>
+                        <a href="https://www.figma.com/proto/f9r2Zfr4ZcAh6GEfZGoXuL/Vivo?node-id=19-728&t=4iKVYElmOlqKxVwi-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1" target="_blank">
+                           <img
+                              src="../assets/images/goto.png"
+                              alt="Job Click"
+                           />
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+              <div class="col-md-4">
+               <div class="prj-item">
+                  <div class="zoomin">
+                     <img src="../assets/images/uiux6.png" />
+                  </div>
+                  <div class="d-flex justify-content-between align-items-center prj-content">
+                     <h3>UI Web Template</h3>
+                     <div>
+                        <a href="https://www.figma.com/proto/uxxXadfGFnzvaxsVyTVRjR/29-Gold?node-id=1-2&t=Z3L1QuEkE3H7WHbZ-1" target="_blank">
+                           <img
+                              src="../assets/images/goto.png"
+                              alt="Job Click"
+                           />
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+              <div class="col-md-4">
+               <div class="prj-item" style="padding:0">
+                  <div class="">
+                     <img src="../assets/images/graphicdesign1.png" style="height:auto;width:100%;border-radius:10px;" />
+                  </div>
+                 
+               </div>
+            </div>
+
+            <div class="col-md-4">
+               <div class="prj-item" style="padding:0">
+                  <div class="">
+                     <img src="../assets/images/graphicdesign2.png" style="height:auto;width:100%;border-radius:10px;" />
+                  </div>
+                 
+               </div>
+            </div>
+
+             <div class="col-md-4">
+               <div class="prj-item" style="padding:0">
+                  <div class="">
+                     <img src="../assets/images/graphicdesign3.png" style="height:auto;width:100%;border-radius:10px;" />
+                  </div>
+                 
                </div>
             </div>
          </div>
